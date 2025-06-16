@@ -1,8 +1,37 @@
 <h1 align="left">Hello World 🌐</h1>
 
-# 💫 About Me:
-✨ I'm currently working on:<br>Developing a game <br>Learning AI and ML<br>An admin dashboard with CRM, Real time data, Charts and Events using react<br><br>📚 I am currently expanding my skills in front-end development with React and back-end development with C#. Additionally, I am delving into game development to further enhance my programming expertise.<br><br>💬Ask me about:<br>Feel free to reach out and ask me about anything related to Java, .NET, Azure, and web development. Whether it’s building robust back-end systems, creating dynamic front-end experiences, or leveraging cloud services for scalable applications, I’m always excited to discuss these topics and share insights.<br><br>🤝: I'm looking for help with improving my coding skills and exploring best practices in software development.<br><br>🎲 Fun fact: My passion for technology started at a young age, fueled by my love for gaming. Exploring games sparked my curiosity about how they were built, eventually inspiring me to dive into the world of programming and development. Alongside technology, I’ve always had a strong enthusiasm for sports, which has taught me teamwork, discipline, and the drive to push boundaries—values I now carry into my tech journey.
+## 💫 About Me
 
+Hi there! I’m a passionate and driven developer with a strong foundation in back-end and front-end technologies. I’m currently focused on:
+
+* 🎮 Developing an immersive game experience
+* 🤖 Learning Artificial Intelligence and Machine Learning
+* 📊 Building a full-featured admin dashboard using React, including CRM capabilities, real-time data, charts, and event management
+
+### 📚 Currently Exploring
+
+I’m actively expanding my expertise in:
+
+* Python programming
+* AI & Machine Learning
+* Automation tools and techniques
+* Game development using C# and React
+
+### 💬 Let’s Talk Tech
+
+Got questions about Java, .NET, Azure, AI, or web development? I’m always up for a conversation about:
+
+* Scalable, cloud-based architectures
+* Building robust back-end systems
+* Crafting dynamic, responsive front-end experiences
+
+### 🤝 Looking to Collaborate
+
+I’m eager to connect with others to improve my coding skills, exchange best practices, and grow as a software developer.
+
+### 🎲 Fun Fact
+
+My journey into tech was sparked by my love of gaming. That curiosity led me to explore how games are made, eventually igniting a passion for programming and development. Outside of tech, I’m a big sports enthusiast—teamwork, discipline, and a competitive spirit are values I carry from the field into every project I take on.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/banele-sobantu-b39691293) www.linkedin.com/in/banele-sobantu-b39691293
