@@ -1,8 +1,8 @@
-<h1 align="left">Hello👋World 🌐</h1>
+<h1 align="left">Hii👋Im Banele!</h1>
 
 ## 💫 About Me
 
-Hi there! I’m a passionate and driven developer with a strong foundation in back-end and front-end technologies. I’m currently focused on:
+I’m a passionate and driven developer with a strong foundation in back-end and front-end technologies. I’m currently focused on:
 
 * 🎮 Developing an immersive game experience
 * 🤖 Learning Artificial Intelligence and Machine Learning
