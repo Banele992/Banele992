@@ -1,5 +1,17 @@
 <h1 align="left">Hii👋Im Banele!</h1>
 
+## 👨‍💻 Quick Bio
+
+I'm a curious and driven student with a passion for cybersecurity, AI, and game development.  
+I love working with `Java`, `React`, `C#`, and `Python` whether it's building immersive experiences or solving complex problems.
+
+🔐 Cybersecurity enthusiast | 🤖 AI explorer | 🎮 Game dev dreamer 
+
+🏋️‍♂️ Outside of tech, I’m either lifting weights or debugging life — both can get heavy.
+
+📚 Always learning, always caffeinated.  
+💬 Let's build cool things together!
+
 ## 💫 About Me
 
 I’m a passionate and driven developer with a strong foundation in back-end and front-end technologies. I’m currently focused on:
