@@ -1,4 +1,7 @@
-<h1 align="left">Hii👋Im Banele!</h1>
+<h1 align="center">
+  Hii <span class="wave">👋</span>
+  <span class="typewriter">I'm Banele!</span>
+</h1>
 
 ## 👨‍💻 Quick Bio
 
@@ -65,4 +68,40 @@ My journey into tech was sparked by my love of gaming. That curiosity led me to 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Banele992&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<style>
+@keyframes wave-animation {
+  0% { transform: rotate(0deg); }
+  10% { transform: rotate(14deg); }
+  20% { transform: rotate(-8deg); }
+  30% { transform: rotate(14deg); }
+  40% { transform: rotate(-4deg); }
+  50% { transform: rotate(10deg); }
+  60% { transform: rotate(0deg); }
+  100% { transform: rotate(0deg); }
+}
+.wave {
+  display: inline-block;
+  animation: wave-animation 2s infinite;
+  transform-origin: 70% 70%;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+@keyframes blink {
+  50% { border-color: transparent; }
+}
+.typewriter {
+  display: inline-block;
+  overflow: hidden;
+  border-right: .15em solid #fff;
+  white-space: nowrap;
+  animation:
+    typing 3s steps(11, end),
+    blink .75s step-end infinite;
+  font-family: monospace;
+}
+</style>
 
