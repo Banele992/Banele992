@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   Hii <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand" /> I'm Banele
 </h1>
 
