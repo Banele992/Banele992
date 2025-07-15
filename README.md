@@ -1,7 +1,5 @@
 <h1 align="center">
-  Hii <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand" />  
-  <br/>
-  <code>I</code> <code>'</code> <code>m</code> <code>&nbsp;</code> <code>B</code> <code>a</code> <code>n</code> <code>e</code> <code>l</code> <code>e</code> <code>!</code>
+  Hii <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand" /> I'm Banele
 </h1>
 
 ## 👨‍💻 Quick Bio
