@@ -48,7 +48,7 @@ I’m eager to connect with others to improve my coding skills, exchange best pr
 My journey into tech was sparked by my love of gaming. That curiosity led me to explore how games are made, eventually igniting a passion for programming and development. Outside of tech, I’m a big sports enthusiast—teamwork, discipline, and a competitive spirit are values I carry from the field into every project I take on.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/banele-sobantu-b39691293) www.linkedin.com/in/banele-sobantu-b39691293 <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/banele-sobantu-b39691293) www.linkedin.com/in/banele-sobantu-b39691293 <br> <br>
 🙋🏽 Web Portfolio: https://banelesobantu.netlify.app 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
