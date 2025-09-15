@@ -23,10 +23,10 @@ I’m a passionate and driven developer with a strong foundation in back-end and
 
 I’m actively expanding my expertise in:
 
-* Python programming
-* AI & Machine Learning
 * Automation tools and techniques
 * Game development using C# and React
+* Python programming
+* AI & Machine Learning
 
 ### 💬 Let’s Talk Tech
 
