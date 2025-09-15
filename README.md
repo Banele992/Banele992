@@ -6,7 +6,7 @@
 
 I'm a curious and driven developer with a passion for cybersecurity, AI, and game development. I love working with Java, React, C#, and Python, whether it's crafting immersive experiences, exploring intelligent systems, or solving complex problems.
 
-🔐 Cybersecurity enthusiast | 🤖 AI explorer | 🎮 Game dev dreamer <br>
+🔐 Cybersecurity enthusiast | 🤖 AI explorer | 🌐 DevOps adventurer <br>
 🏋️‍♂️ Outside of tech, I’m either lifting weights or debugging life — both can get heavy<br>
 📚 Always learning, always caffeinated.  <br>
 💬 Let's build cool things together!
