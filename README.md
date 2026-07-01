@@ -211,11 +211,14 @@ Ship with purpose.
 
 I’m open to conversations around AI engineering, full-stack development, automation, game development, and building useful software products.
 
-### ✍️ Dev Quote of the day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p align="center">
   <a href="https://banelesobantu.netlify.app">Portfolio</a> •
   <a href="https://www.linkedin.com/in/banele-sobantu-b39691293">LinkedIn</a> •
   <a href="https://github.com/Banele992">GitHub</a>
 </p>
+
+
+
+### ✍️ Dev Quote of the day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
