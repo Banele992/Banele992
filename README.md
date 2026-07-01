@@ -192,15 +192,6 @@ Contributed to full-stack software development projects using C# and modern web 
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Banele992&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Dev Quote of the day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
----
-
 ## Beyond the Code
 
 My journey into tech started with gaming. I wanted to understand how digital worlds were built, which eventually pushed me into programming, software development, and AI.
@@ -219,6 +210,9 @@ Ship with purpose.
 ## Let’s Connect
 
 I’m open to conversations around AI engineering, full-stack development, automation, game development, and building useful software products.
+
+### ✍️ Dev Quote of the day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p align="center">
   <a href="https://banelesobantu.netlify.app">Portfolio</a> •
