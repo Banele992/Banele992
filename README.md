@@ -83,37 +83,6 @@ I’m comfortable working with tools and platforms that support scalable, automa
 
 ---
 
-## Experience Snapshot
-
-### Junior AI Engineer — BET Software
-
-`Feb 2026 - Present`
-
-Working on enterprise AI initiatives involving local LLM solutions, RAG chatbot systems, AI agent platforms, automation, and integration of AI systems into existing business applications.
-
-### Software Engineer Intern — WOLF I/O
-
-`Dec 2024 - Dec 2025`
-
-Contributed to full-stack software development projects using C# and modern web technologies, including responsive web apps, backend services, and AI/ML feature integration.
-
----
-
-## Featured Projects
-
-| Project                         | Type                       | Tech / Focus                       |
-| ------------------------------- | -------------------------- | ---------------------------------- |
-| **Semantic Book Recommender**   | AI / Recommendation System | Python, AI, semantic search        |
-| **AI Agent**                    | Automation / AI Systems    | LLMs, agents, workflow automation  |
-| **Agri-Energy Connect**         | Web / Mobile Application   | Full-stack application development |
-| **MyNextRide**                  | Web / Mobile Application   | User-focused application design    |
-| **The Absolute Property Group** | Web Application            | HTML, CSS, JavaScript              |
-| **Wordle**                      | Game / Logic App           | JavaScript, problem-solving        |
-| **Google T-Rex Runner**         | Game Development           | Game mechanics and UI logic        |
-| **Open Claw-Inspired Game**     | Game Development           | C#, gameplay systems               |
-
----
-
 ## Tech Stack
 
 ### Languages
@@ -163,32 +132,6 @@ Contributed to full-stack software development projects using C# and modern web 
 * Automation with Power Automate
 * Cloud-native application design
 * Cleaner, more scalable backend systems
-
----
-
-## Education & Certifications
-
-### Education
-
-* **Bachelor of Computer and Information Sciences in Application Development**
-
-  * Programming: C#, Java, Kotlin
-  * Cloud Development: Azure
-  * Databases: SQL, NoSQL, PostgreSQL, Oracle
-
-* **Higher Certificate in Business Principles and Practices**
-
-  * Accounting
-  * Project Management
-  * Administration
-  * Business Management
-
-### Certifications & Recognition
-
-* Microsoft Certified: Azure AI Fundamentals
-* Microsoft Certified: Security, Compliance, and Identity Fundamentals
-* Horizon Dev Camp
-* Golden Key International Honour Society
 
 ---
 
