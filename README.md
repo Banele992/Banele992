@@ -192,15 +192,12 @@ Contributed to full-stack software development projects using C# and modern web 
 
 ---
 
-## GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Banele992&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Banele992&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Banele's GitHub stats" />
-</p>
+### ✍️ Dev Quote of the day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banele992&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
-</p>
 
 ---
 
